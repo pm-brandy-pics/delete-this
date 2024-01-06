@@ -1,0 +1,7 @@
+high resolution display with 4 gradations 
+display expression same as textbook
+spreadsheet
+equation solver
+quick access to  support page from "get started"
+online visualization service via "QR Code"
+Base-n Calculations
